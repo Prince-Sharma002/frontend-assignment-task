@@ -18,10 +18,10 @@ export default function Contact() {
             </div>
             
             <h1 className="text-5xl font-bold text-white mb-6">
-              What's on your mind?
+              What is on your mind?
             </h1>
             <p className="text-lg text-gray-400 leading-relaxed">
-              We're here to help! Tell us what you're looking for and we'll get you connected to the right people.
+              We are here to help! Tell us what you are looking for and we will get you connected to the right people.
             </p>
           </div>
 

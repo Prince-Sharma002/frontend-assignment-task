@@ -23,8 +23,8 @@ export default function About() {
                 Simplertechnologies was established with a singular goal: to simplify the complexities of business management through cutting-edge ERP and management software solutions. We recognize that every business is unique, with its own set of challenges and requirements. Therefore, we focus on creating solutions that are not only powerful but also adaptable, ensuring they cater to the diverse needs of industries across the spectrum.
               </p>
               <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
-                Since our founding, we've been committed to delivering exceptional 
-                products that not only meet but exceed our users' expectations.
+                Since our founding, we have been committed to delivering exceptional 
+                products that not only meet but exceed our users expectations.
               </p>
             </div>
             <div className="bg-slate-800 border border-slate-700 rounded-2xl p-6 sm:p-8 shadow-lg">
@@ -36,7 +36,7 @@ export default function About() {
                 </div>
                 <h3 className="text-lg sm:text-xl font-semibold text-white mb-2">Innovation First</h3>
                 <p className="text-gray-300 text-sm sm:text-base">
-                  We constantly push the boundaries of what's possible, embracing 
+                  We constantly push the boundaries of what is possible, embracing 
                   new technologies and methodologies.
                 </p>
               </div>
@@ -79,7 +79,7 @@ Mobile-Friendly Interfaces</h3>
           <div className="text-center">
             <h2 className="text-2xl sm:text-3xl font-bold text-white mb-6">Join the Simplertechnologies Revolution</h2>
             <p className="text-lg sm:text-xl text-gray-300 mb-6 sm:mb-8 max-w-2xl mx-auto leading-relaxed">
-              Simplertechnologies is more than just a software company—we're a partner in your success. Our ERP and management software solutions empower businesses to achieve their full potential by streamlining operations, enhancing productivity, and driving innovation. Explore how Simplertechnologies can transform your business. Contact us today and take the first step toward a smarter, more efficient future.
+              Simplertechnologies is more than just a software company - we are a partner in your success. Our ERP and management software solutions empower businesses to achieve their full potential by streamlining operations, enhancing productivity, and driving innovation. Explore how Simplertechnologies can transform your business. Contact us today and take the first step toward a smarter, more efficient future.
             </p>
             <a
               href="/signup"
