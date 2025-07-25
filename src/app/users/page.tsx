@@ -67,7 +67,7 @@ export default function Users() {
               Want to join us?
             </h2>
             <p className="text-gray-300 mb-6 text-sm sm:text-base">
-              We're always looking for talented individuals to join our growing team.
+              We&apos;re always looking for talented individuals to join our growing team.
             </p>
             <a 
               href="/contact" 
